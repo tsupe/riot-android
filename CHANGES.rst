@@ -10,6 +10,7 @@ Features:
 Improvements:
  - Improve UX when restoring e2e keys (#2999)
  - Hide e2e keys management section in settings if crypto is disabled
+ - Get full Credentials data from Fallback login (#3006)
 
 Other changes:
  -
